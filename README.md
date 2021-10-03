@@ -9,7 +9,6 @@ Importar arquivo csv com biblioteca javascript.
 * Praticar as seguintes tecnologias.
 * Html
 * Css
-* JQuery
 * Javascript
 * Bootstrap
 
