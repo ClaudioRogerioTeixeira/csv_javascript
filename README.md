@@ -6,7 +6,7 @@ Lendo arquivo csv com JavaScript
 
 Importar arquivo csv com biblioteca javascript(Papa Parse).
 
-* Praticar as seguintes tecnologias.
+* Tecnologias.
 * Html
 * Css
 * Javascript
