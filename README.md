@@ -4,7 +4,7 @@ Lendo arquivo csv com JavaScript
 
 ### Objetivo:
 
-Importar arquivo csv com biblioteca javascript(Papa Parse).
+Importar arquivo csv com biblioteca javascript (Papa Parse).
 
 * Tecnologias.
 * Html
@@ -12,4 +12,4 @@ Importar arquivo csv com biblioteca javascript(Papa Parse).
 * Javascript
 * Bootstrap
 
-### Desenvolvedor: Claudio Teixeira
+
